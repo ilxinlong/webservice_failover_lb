@@ -12,10 +12,10 @@ from ucloud.client import Client
 
 def main():
     client = Client({
-        "region": "cn-sh2",
-        "project_id": "org-rwvczq",
-        "public_key": "Befp8gE5fIm4ByecJ6va1qdQhErExmKhiKpbwTjm",
-        "private_key": "nI056581IPNaXPlEBMQD94l_802MWkPkCRM5yxbWqzQY0EGTpApHZv2khV6fkkvT",
+        "region": "cn-",
+        "project_id": "org-",
+        "public_key": "",
+        "private_key": "",
     })
 
     try:
