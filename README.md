@@ -15,7 +15,7 @@ PRIVATE_KEY =
 
 ## parameter description
 ```
-## 官方文档查阅即可
+## for documents
 [abc]
 ULBId = 
 VSERVERId = 
